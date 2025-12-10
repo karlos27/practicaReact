@@ -1,0 +1,90 @@
+.prices-page {
+    padding: 2rem 1.5rem;
+}
+.prices-header {
+    margin-bottom: 2.5rem;
+}
+.prices-intro {
+    max-width: 700px;
+    margin: 0.75rem auto 0 auto;
+}
+.prices-grid {
+    margin-bottom: 3rem;
+}
+.price-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.price-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+.price-card-name {
+    font-weight: 600;
+}
+.price-card-badge {
+    font-size: 0.7rem;
+}
+.price-card-type {
+    margin-bottom: 0.75rem;
+    color: #666;
+}
+.price-card-prices {
+    margin-top: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+.price-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.25rem;
+}
+.price-label {
+    font-size: 0.9rem;
+    color: #555;
+}
+.price-value {
+    font-weight: 600;
+}
+.price-note {
+    margin-top: 0.5rem;
+    color: #777;
+}
+body.dark .price-card-type {
+    color: #bbb;
+} 
+body.dark .price-label {
+    color: #ccc;
+}    
+body.dark .price-note {
+    color: #aaa;
+}
+.prices-contact-btn-wrapper {
+    text-align: center;
+    margin: 2rem 0 3rem 0;
+}
+.prices-contact-btn {
+    background-color: #7b1fa2 !important;
+    padding: 0.7rem 2rem !important;
+    border-radius: 999px !important;
+    font-size: 1rem !important;
+}
+body.dark .prices-contact-btn {
+    background-color: #9c4dcc !important;
+}
+  
+@media (max-width: 600px) {
+    .prices-page {
+        padding: 1.5rem 1rem;
+    }
+    .prices-grid {
+        margin-bottom: 2.5rem;
+    }
+}
+
+
+
+  

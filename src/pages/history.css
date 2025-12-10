@@ -1,0 +1,114 @@
+.history-page {
+    padding: 0;
+}
+.history-hero {
+    width: 100%;
+    height: 60vh;
+    min-height: 380px;
+    background-image: url("/src/assets/history-hero.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+.history-hero::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 40%;
+    background: linear-gradient(transparent, rgba(0, 0, 0, 0.6));
+}
+.history-hero-content {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    text-align: center;
+    z-index: 2;
+    padding: 0 1rem;
+}
+.history-hero-content h1 {
+    margin: 0;
+    font-size: 2.3rem;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
+}
+.history-hero-content p {
+    margin-top: 0.5rem;
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.7);
+}
+.history-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 3rem 1.5rem;
+}
+.history-row + .history-row {
+    border-top: 1px solid #eee;
+}
+.history-row--image-right {
+    flex-direction: row-reverse;
+}
+.history-image-wrapper,
+.history-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.history-text {
+    flex: 0 0 67%;
+}
+.history-text h2 {
+    margin-bottom: 0.75rem;
+}
+.history-text p {
+    line-height: 1.6;
+}
+.history-image {
+    width: 100%;
+    border-radius: 8px;
+    display: block;
+    object-fit: cover;
+    max-height: 320px;
+}
+
+@media (max-width: 768px) {
+  .history-hero {
+      height: 50vh;
+      min-height: 320px;
+  }
+  .history-hero-content h1 {
+      font-size: 1.5rem; /* o 1.5 si encara no cap */
+      white-space: nowrap;  /* <- EVITA QUE ES TALLI */
+  }
+  .history-hero-content p {
+      font-size: 0.95rem;
+  }
+  .history-row {
+      flex-direction: column;
+      margin: 2.5rem auto;
+      padding: 0 1rem;
+  }
+  .history-row--image-right {
+      flex-direction: column; 
+  }
+  .history-image-wrapper,
+  .history-text {
+      flex: 0 0 auto;
+      width: 100%;
+  }
+  .history-image {
+      max-height: 260px;
+      margin-top: 0.75rem;
+  }
+}

@@ -1,0 +1,222 @@
+{
+    "ca": {
+      "translation": {
+        "nav": {
+          "home": "Inici",
+          "history": "Història",
+          "prices": "Preus",
+          "contact": "Contacte"
+        },
+        "theme": {
+          "light": "Clar",
+          "dark": "Fosc"
+        },
+        "home": {
+          "heroTitle": "Vins amb història",
+          "heroSubtitle": "Descobreix la nostra selecció de vins exclusius",
+          "heroCta": "Descobreix els nostres vins",
+          "featuredTitle": "Selecció destacada",
+          "gotoPrices": "Veure tots els preus",
+          "wines": {
+            "red": {
+              "name": "Reserva 2018",
+              "desc": "Vi negre amb matisos de fruita madura."
+            },
+            "white": {
+              "name": "Blanc Jove",
+              "desc": "Vi blanc fresc, ideal per aperitius."
+            },
+            "rose": {
+              "name": "Rosat d'estiu",
+              "desc": "Vi rosat suau, perfecte per tardes d'estiu."
+            }
+          }
+        },
+        "history": {
+          "title": "La nostra història",
+          "intro": "Des de les primeres vinyes familiars fins a l'actualitat, el nostre celler ha crescut amb calma i respecte per la terra.",
+          "origins": {
+            "title": "Orígens familiars",
+            "text": "A finals del segle XIX, la família va començar a treballar les primeres parcel·les de vinya en un petit turó orientat al sud. Amb poc més que il·lusió i esforç, van aprendre a escoltar el clima, la terra i el ritme de les anyades."
+          },
+          "tradition": {
+            "title": "Tradició i ofici",
+            "text": "Amb el pas de les generacions, el celler va créixer i amb ell també el coneixement. Hem mantingut les tècniques tradicionals de verema manual i selecció del raïm, combinant-les amb una cura meticulosa en cada pas del procés d'elaboració."
+          },
+          "present": {
+            "title": "Mirant cap al futur",
+            "text": "Avui, el nostre projecte uneix experiència i innovació. Apostem per una viticultura més sostenible, reduint l'ús de productes químics i treballant perquè cada ampolla expliqui la història del paisatge on neix."
+          }
+        },
+        "prices": {
+          "title": "Preus i selecció de vins",
+          "contactButton": "Contacta amb nosaltres",
+          "intro": "Aquests són alguns dels nostres vins més representatius. Per a comandes especials, formats magnum o tastos guiats, posa't en contacte amb nosaltres.",
+          "labels": {
+            "bottle": "Ampolla (750 ml)",
+            "box": "Caixa 6 ampolles"
+          },
+          "note": "Preus amb IVA inclòs. Despeses d'enviament no incloses.",
+          "badges": {
+            "bestSeller": "Més venut",
+            "newVintage": "Nova anyada",
+            "limited": "Edició limitada"
+          },
+          "wines": {
+            "reserva": {
+              "name": "Reserva de la Casa",
+              "type": "Vi negre criança"
+            },
+            "crianza": {
+              "name": "Criança de la Vall",
+              "type": "Vi negre criança"
+            },
+            "blancJove": {
+              "name": "Blanc Jove",
+              "type": "Vi blanc jove"
+            },
+            "rosatEstiu": {
+              "name": "Rosat d'Estiu",
+              "type": "Vi rosat"
+            },
+            "seleccioParcel": {
+              "name": "Selecció de Parcel·la",
+              "type": "Vi negre de finca"
+            }
+          }
+        },
+        "contact": {
+          "title": "Contacta amb nosaltres",
+          "intro": "Si tens qualsevol dubte, vols fer una comanda o necessites més informació sobre els nostres vins, omple el formulari i et respondrem tan aviat com puguem.",
+          "form": {
+            "nameLabel": "Nom",
+            "namePlaceholder": "El teu nom",
+            "emailLabel": "Correu electrònic",
+            "emailPlaceholder": "nom@exemple.com",
+            "messageLabel": "Missatge",
+            "messagePlaceholder": "Explica'ns en què et podem ajudar...",
+            "sendButton": "Envia el missatge",
+            "sentMessage": "El formulari s'ha enviat (exemple)."
+          },
+          "map": {
+            "title": "On som",
+            "subtitle": "Ens trobaràs al nostre celler, envoltats de vinyes."
+          }
+        },
+        "footer": {
+          "rights": "Tots els drets reservats"
+        }
+      }
+    },
+    "es": {
+      "translation": {
+        "nav": {
+          "home": "Inicio",
+          "history": "Historia",
+          "prices": "Precios",
+          "contact": "Contacto"
+        },
+        "theme": {
+          "light": "Claro",
+          "dark": "Oscuro"
+        },
+        "home": {
+          "heroTitle": "Vinos con historia",
+          "heroSubtitle": "Descubre nuestra selección de vinos exclusivos",
+          "heroCta": "Descubre nuestros vinos",
+          "featuredTitle": "Selección destacada",
+          "gotoPrices": "Ver todos los precios",
+          "wines": {
+            "red": {
+              "name": "Reserva 2018",
+              "desc": "Vino tinto con notas de fruta madura."
+            },
+            "white": {
+              "name": "Blanco Joven",
+              "desc": "Vino blanco fresco, ideal para aperitivos."
+            },
+            "rose": {
+              "name": "Rosado de verano",
+              "desc": "Vino rosado suave, perfecto para tardes de verano."
+            }
+          }
+        },
+        "history": {
+          "title": "Nuestra historia",
+          "intro": "Desde los primeros viñedos familiares hasta hoy, nuestra bodega ha crecido con calma y respeto por la tierra.",
+          "origins": {
+            "title": "Orígenes familiares",
+            "text": "A finales del siglo XIX, la familia empezó a trabajar las primeras parcelas de viña en una pequeña colina orientada al sur. Con poco más que ilusión y esfuerzo, aprendieron a escuchar el clima, la tierra y el ritmo de las cosechas."
+          },
+          "tradition": {
+            "title": "Tradición y oficio",
+            "text": "Con el paso de las generaciones, la bodega creció y con ella también el conocimiento. Hemos mantenido las técnicas tradicionales de vendimia manual y selección de la uva, combinándolas con un cuidado meticuloso en cada paso del proceso de elaboración."
+          },
+          "present": {
+            "title": "Mirando al futuro",
+            "text": "Hoy, nuestro proyecto une experiencia e innovación. Apostamos por una viticultura más sostenible, reduciendo el uso de productos químicos y trabajando para que cada botella cuente la historia del paisaje en el que nace."
+          }
+        },
+        "prices": {
+          "title": "Precios y selección de vinos",
+          "contactButton": "Contacta con nosotros",
+          "intro": "Estos son algunos de nuestros vinos más representativos. Para pedidos especiales, formatos magnum o catas guiadas, ponte en contacto con nosotros.",
+          "labels": {
+            "bottle": "Botella (750 ml)",
+            "box": "Caja 6 botellas"
+          },
+          "note": "Precios con IVA incluido. Gastos de envío no incluidos.",
+          "badges": {
+            "bestSeller": "Más vendido",
+            "newVintage": "Nueva añada",
+            "limited": "Edición limitada"
+          },
+          "wines": {
+            "reserva": {
+              "name": "Reserva de la Casa",
+              "type": "Vino tinto crianza"
+            },
+            "crianza": {
+              "name": "Crianza del Valle",
+              "type": "Vino tinto crianza"
+            },
+            "blancJove": {
+              "name": "Blanco Joven",
+              "type": "Vino blanco joven"
+            },
+            "rosatEstiu": {
+              "name": "Rosado de Verano",
+              "type": "Vino rosado"
+            },
+            "seleccioParcel": {
+              "name": "Selección de Parcela",
+              "type": "Vino tinto de finca"
+            }
+          }
+        },
+        "contact": {
+          "title": "Contacta con nosotros",
+          "intro": "Si tienes cualquier duda, quieres hacer un pedido o necesitas más información sobre nuestros vinos, rellena el formulario y te responderemos lo antes posible.",
+          "form": {
+            "nameLabel": "Nombre",
+            "namePlaceholder": "Tu nombre",
+            "emailLabel": "Correo electrónico",
+            "emailPlaceholder": "nombre@ejemplo.com",
+            "messageLabel": "Mensaje",
+            "messagePlaceholder": "Cuéntanos en qué podemos ayudarte...",
+            "sendButton": "Enviar mensaje",
+            "sentMessage": "El formulario se ha enviado (ejemplo)."
+          },
+          "map": {
+            "title": "Dónde estamos",
+            "subtitle": "Puedes encontrarnos en nuestra bodega, rodeada de viñedos."
+          }
+        },
+        "footer": {
+          "rights": "Todos los derechos reservados"
+        }
+
+      }
+    }
+  }
+  
